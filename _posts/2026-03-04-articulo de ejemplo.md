@@ -1,5 +1,5 @@
 ---
-title: "Nuevo articulo"
+title: "Artículo de ejemplo"
 ---
 Tri-tip pork chop short loin, jowl strip steak sausage venison corned beef t-bone turducken rump meatball tongue drumstick.  Chislic spare ribs pancetta ground round alcatra turducken hamburger jowl sirloin.  Beef ribs kielbasa ribeye andouille ball tip rump venison shoulder chuck boudin ham hock.  Bresaola frankfurter rump short loin pork chop fatback.
 
